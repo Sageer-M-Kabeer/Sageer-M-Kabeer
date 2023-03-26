@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Sageer-M-Kabeer
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning ...
+- 👋 Sageer-M-Kabeer
+- 👀 cyber security, software development and web development 
+- 🌱 Reactjs and React native 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 sageerm379@gmail.com
+- 🔗 https://www.linkedin.com/in/sagir-muhammad-088b8418a
 
 <!---
 Sageer-M-Kabeer/Sageer-M-Kabeer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
