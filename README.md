@@ -3,7 +3,7 @@
 - 👋 Sagir muhammad Kabir aka H3ndr1x22
 - 👀 cyber security, software development and web development 
 - 🌱 Reactjs and React native 
-- 📫 sageerm379@gmail.com
+- 📫 sagir.muhammad.kabir02@gmail.com
 
 - 🔗 https://www.linkedin.com/in/sagir-muhammad-088b8418a
 
