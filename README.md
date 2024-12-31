@@ -1,5 +1,3 @@
-### ![dev-ed-wave](https://github.com/Sageer-M-Kabeer/Sageer-M-Kabeer/assets/78979577/480f3171-7099-4a74-86a7-ea35918ea4d5)
-
 - 👋 Sagir muhammad Kabir aka H3ndr1x22
 - 👀 cyber security, software development and web development 
 - 🌱 Reactjs and React native 
