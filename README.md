@@ -3,7 +3,7 @@
 - 🌱 Reactjs and React native 
 - 📫 sagir.muhammad.kabir02@gmail.com
 
-- 🔗 https://www.linkedin.com/in/sagir-muhammad-088b8418a
+- 🔗 https://www.linkedin.com/in/sagir-muhammad-kabir-676a78396/
 
 # ABOUT ME:
 Motivated computer science student with a strong foundation in Python, Django, Django Rest Framework, ReactJS, HTML, CSS,C lang and JavaScript. Seeking opportunities to apply my programming and web development skills to contribute to innovative projects and gain further experience in the field.
