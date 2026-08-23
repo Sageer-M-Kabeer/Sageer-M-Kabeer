@@ -12,7 +12,7 @@ Motivated computer science student with a strong foundation in Python, Django, D
 * YOBE STATE UNIVERSITY
 * DAMATURU
 * Bachelor of Science in Computer Science
-* Expected Graduation: 2025
+* Graduated: 08 Jan 2025
 
 # Skills:
 - Programming Languages: `Python, JavaScript, C, Java`
